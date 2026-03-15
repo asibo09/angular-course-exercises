@@ -4,7 +4,7 @@ Raccolta di esercizi ed esperimenti che sto realizzando durante il mio percorso 
 
 L'obiettivo è padroneggiare il framework partendo dalle basi fino a concetti più avanzati.
 
-## 📂 Struttura del Progetto
+## 📂 Struttura del Repository
 
 ```text
 angular-course-exercise/
